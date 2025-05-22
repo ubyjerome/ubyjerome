@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubyjerome&label=Profile%20views&color=0e75b6&style=flat" alt="ubyjerome" /> </p>
 
 
-<p align="center"> I am <b>Ubongabasi Jerome (Dhela)</b>,a software engineer and proficient backend developer specializing in Typescript, Golang and MongoDB 🌐 I am also proficient proficient with the Unix environment varying from System Administration to IT Support, while implementing and designing concrete web infrastructures.
+<p align="center"> I am <b>Ubongabasi Jerome (ubyjerome)</b>,a software engineer and proficient backend developer specializing in Typescript, Golang and MongoDB 🌐 I am also proficient proficient with the Unix environment varying from System Administration to IT Support, while implementing and designing concrete web infrastructures.
 
 <br/>
 <br/>
