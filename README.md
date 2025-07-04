@@ -3,7 +3,22 @@
 ## Hello There 👋
 ### I am <b>Ubongabasi Jerome (ubyjerome) </b>
 
-Asoftware engineer and proficient backend developer specializing in Typescript, Golang and MongoDB 🌐 I am also proficient proficient with the Unix environment varying from System Administration to IT Support, while implementing and designing concrete web infrastructures.
+A Software Engineer and proficient Backend Developer with expertise in TypeScript, Golang, and MongoDB. I specialize in building scalable backend systems and designing robust APIs that power real-world applications.
+
+I'm also highly skilled in Unix-based environments, with hands-on experience in System Administration, IT Support, and the deployment and management of reliable web infrastructures. My work often sits at the intersection of backend performance, system reliability, and developer efficiency.
+
+I thrive in environments where backend logic, distributed systems, and infrastructure automation meet. Whether it's building microservices, integrating DevOps workflows, or optimizing database performance, I build with clarity and longevity in mind.
+
+## Tools I work with:
+
+- Programming: Go, TypeScript, JavaScript, Bash
+
+- Databases: MongoDB, PostgreSQL, Redis
+
+- DevOps: Docker, Nginx, GitHub Actions, Linux
+
+- Cloud & Infra: AWS EC2/S3, GCP
+
 
 <br/>
 <br/>
