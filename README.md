@@ -5,7 +5,6 @@
 
 <br/>
 <br/>
-<b>Pronouns:</b> He/Him 🧍🏾‍♂️</p>
 
 <div align="center">
   
